@@ -20,7 +20,7 @@ Bangalore’s food services industry is one of the most dynamic and hyper-compet
 
 This analysis extracts actionable intelligence from restaurant attributes, geographical concentrations, user engagement metrics, and pricing structures to solve these supply-side challenges.
 
-* **Interactive Tableau Dashboard:** [[View Full Tableau Dashboard](https://public.tableau.com/)](https://public.tableau.com/views/ZomatoBangaloreAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) *(Replace with your exact Tableau Public URL)*
+* **Interactive Tableau Dashboard:** [https://public.tableau.com/views/ZomatoBangaloreAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]*
 * **Full Executive Report:** See `reports/business_recommendations.md`
 
 ---
