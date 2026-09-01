@@ -44,13 +44,5 @@ This analysis extracts actionable intelligence from restaurant attributes, geogr
 4. **Merchant Quality & Rating Enablement:** Implement targeted review collection tools for low-engagement merchants to help elevate platform ratings toward the 3.6–3.9 quality benchmark.
 
 ---
-
-## Repository Structure
-
-```text
-├── src/
-│   └── zomato_data_analysis.py       # Data extraction, cleaning, and exploratory data analysis
-├── reports/
-│   └── business_recommendations.md   # Executive summary and detailed recommendations
 ├── README.md                         # Project documentation and business problem breakdown
 └── .gitignore                        # Git ignore file
